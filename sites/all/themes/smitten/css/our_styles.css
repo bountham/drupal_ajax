@@ -118,6 +118,8 @@ a:hover {
 #widgets-element-socialmedia_profile-default{
   width: 160px;
   float:right;
+  opacity: 0.5;
+
 
 
 }
