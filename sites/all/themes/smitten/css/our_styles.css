@@ -115,14 +115,12 @@ a:hover {
     color: #661028;
 }
 
-#widgets-element-socialmedia_profile-default{
+/*#widgets-element-socialmedia_profile-default{
   width: 160px;
   float:right;
   opacity: 0.5;
 
-
-
-}
+}*/
 
 p.submitted {
     text-transform: uppercase;

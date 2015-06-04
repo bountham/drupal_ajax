@@ -52,9 +52,6 @@ stylesheets[all][] = system.theme.css
 ; Then we add our own stylesheet.
 stylesheets[all][] = css/styles.css
 stylesheets[all][] = css/our_styles.css
-stylesheets[all][] = css/mfglabs-iconset-master/css/main.css
-stylesheets[all][] = css/mfglabs-iconset-master/css/mfglabs_iconset.css
-
 
 
 ; Built-in conditional stylesheet support has been removed from Zen 7.x-5.x.
